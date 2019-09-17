@@ -2,4 +2,5 @@
 AS 
 BEGIN
 	SELECT * FROM Genres
+	UPDATE
 END
