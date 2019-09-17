@@ -2,5 +2,5 @@
 AS 
 BEGIN
 	SELECT * FROM Genres
-	
+	ORDER BY id DESC
 END
