@@ -7,8 +7,6 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MovieReviewsDatabase", "Mov
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "FromExistingDatabase", "FromExistingDatabase\FromExistingDatabase.sqlproj", "{609D504F-F5E1-4046-B6BD-7DA879CC3865}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppForOctopus", "ConsoleAppForOctopus\ConsoleAppForOctopus.csproj", "{40D8B3C1-F750-4D79-B456-A5680E5AB50B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,10 +25,6 @@ Global
 		{609D504F-F5E1-4046-B6BD-7DA879CC3865}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{609D504F-F5E1-4046-B6BD-7DA879CC3865}.Release|Any CPU.Build.0 = Release|Any CPU
 		{609D504F-F5E1-4046-B6BD-7DA879CC3865}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{40D8B3C1-F750-4D79-B456-A5680E5AB50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{40D8B3C1-F750-4D79-B456-A5680E5AB50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{40D8B3C1-F750-4D79-B456-A5680E5AB50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{40D8B3C1-F750-4D79-B456-A5680E5AB50B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
