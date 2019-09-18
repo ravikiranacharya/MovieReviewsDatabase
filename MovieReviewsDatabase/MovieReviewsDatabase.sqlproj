@@ -64,8 +64,5 @@
   <ItemGroup>
     <RefactorLog Include="MovieReviewsDatabase.refactorlog" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="dev.publish.xml" />
-  </ItemGroup>
   <Import Project="..\octopack\octopack\3.6.4\build\OctoPack.targets" />
 </Project>
