@@ -2,4 +2,5 @@
 AS 
 BEGIN 
 	SELECT 'This is a dummy procedure'
+	UPDATE
 END
