@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>OctoPack</id>
+    <version>3.6.4</version>
+    <title>OctoPack</title>
+    <authors>Octopus Deploy</authors>
+    <owners>Octopus Deploy</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <developmentDependency>true</developmentDependency>
+    <licenseUrl>https://github.com/OctopusDeploy/OctoPack/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://octopus.com/</projectUrl>
+    <iconUrl>http://i.octopusdeploy.com/resources/Avatar3-32x32.png</iconUrl>
+    <description>Octopus Deploy is an automated deployment tool powered by NuGet. This tool adds a post-build activity to your Visual Studio project, so that an Octopus-compatible NuGet package is produced in the Bin directory whenever a Release build completes.</description>
+    <summary>Build Octopus Deploy-compatible NuGet packages from your projects.</summary>
+    <tags>automation deployment</tags>
+  </metadata>
+</package>
