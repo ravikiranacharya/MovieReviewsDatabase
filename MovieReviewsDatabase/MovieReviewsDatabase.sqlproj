@@ -68,7 +68,9 @@
   <ItemGroup>
     <None Include="dev.publish.xml" />
     <None Include="MovieReviewsDatabase.nuspec" />
-    <None Include="Deploy.ps1" />
+    <None Include="Deploy.ps1">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <Import Project="..\octopack\octopack\3.6.4\build\OctoPack.targets" />
 </Project>
