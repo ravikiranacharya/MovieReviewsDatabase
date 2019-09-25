@@ -72,5 +72,5 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
-  <Import Project="..\octopack\octopack\3.6.4\build\OctoPack.targets" />
+  <!--<Import Project="..\octopack\octopack\3.6.4\build\OctoPack.targets" />-->
 </Project>
