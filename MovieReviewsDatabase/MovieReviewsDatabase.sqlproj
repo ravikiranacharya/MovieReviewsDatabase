@@ -61,6 +61,7 @@
     <Build Include="Genres.sql" />
     <Build Include="Usp_FetchAllGenres.sql" />
     <Build Include="DummyProcedure.sql" />
+    <Build Include="Movies.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="MovieReviewsDatabase.refactorlog" />
